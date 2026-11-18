@@ -1,4 +1,4 @@
-# Hi there, I'm XTentione! 👋
+# Hi there, I'm XTentione! 
 
 I am a passionate Web Developer based in Kenya. I love building modern, responsive, and interactive websites that solve real-world problems for businesses.
 
